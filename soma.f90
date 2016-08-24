@@ -21,6 +21,10 @@ res = a+b
 
 print*, "O resultado da soma a+b é:", res
 
+res = a-b
+
+print*, "O resultado da subtração a-b é:", res
+
 print*, "Program finalizado!"
 
 end Program test_gui
